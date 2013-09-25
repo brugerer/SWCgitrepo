@@ -1,1 +1,1 @@
-Hello github
+print "Hello github"
